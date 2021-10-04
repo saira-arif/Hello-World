@@ -1,0 +1,13 @@
+C:\Users\hp 430 G5\Desktop\Object Oriented Language\bin\Debug\netcoreapp3.1\Object Oriented Language.exe
+C:\Users\hp 430 G5\Desktop\Object Oriented Language\bin\Debug\netcoreapp3.1\Object Oriented Language.deps.json
+C:\Users\hp 430 G5\Desktop\Object Oriented Language\bin\Debug\netcoreapp3.1\Object Oriented Language.runtimeconfig.json
+C:\Users\hp 430 G5\Desktop\Object Oriented Language\bin\Debug\netcoreapp3.1\Object Oriented Language.runtimeconfig.dev.json
+C:\Users\hp 430 G5\Desktop\Object Oriented Language\bin\Debug\netcoreapp3.1\Object Oriented Language.dll
+C:\Users\hp 430 G5\Desktop\Object Oriented Language\bin\Debug\netcoreapp3.1\Object Oriented Language.pdb
+C:\Users\hp 430 G5\Desktop\Object Oriented Language\obj\Debug\netcoreapp3.1\Object Oriented Language.csprojAssemblyReference.cache
+C:\Users\hp 430 G5\Desktop\Object Oriented Language\obj\Debug\netcoreapp3.1\Object Oriented Language.AssemblyInfoInputs.cache
+C:\Users\hp 430 G5\Desktop\Object Oriented Language\obj\Debug\netcoreapp3.1\Object Oriented Language.AssemblyInfo.cs
+C:\Users\hp 430 G5\Desktop\Object Oriented Language\obj\Debug\netcoreapp3.1\Object Oriented Language.csproj.CoreCompileInputs.cache
+C:\Users\hp 430 G5\Desktop\Object Oriented Language\obj\Debug\netcoreapp3.1\Object Oriented Language.dll
+C:\Users\hp 430 G5\Desktop\Object Oriented Language\obj\Debug\netcoreapp3.1\Object Oriented Language.pdb
+C:\Users\hp 430 G5\Desktop\Object Oriented Language\obj\Debug\netcoreapp3.1\Object Oriented Language.genruntimeconfig.cache
